@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=298
+
+This simple script shows you a random tip using 'fortune' program when launching VIM
+without specifying filename(s) to edit(ie. '%vim' and not '%vim foobar.c').
+You can also explicitly view a tip by typing
+:TIPS
+or
+:!fortune vimtips
+
+Included are pre-formatted datafiles converted from the vim tips available from:
+http://vim.sourceforge.net/tips/download.php
